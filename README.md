@@ -1,7 +1,2 @@
 # Chen-Su
-**简介一个男的**
-<p>*Hello*</p>
-1. hahahah
-2. hahahahhaha
-3. hahahahah
-<p>啦啦啦啦阿拉</p>
+**Chen Su was created in China in 2002 and has a history of 20 years. **
